@@ -1,3 +1,0 @@
-/Users/saad/Desktop/codecrafters-shell-cpp/build/CMakeFiles/shell.dir
-/Users/saad/Desktop/codecrafters-shell-cpp/build/CMakeFiles/edit_cache.dir
-/Users/saad/Desktop/codecrafters-shell-cpp/build/CMakeFiles/rebuild_cache.dir
