@@ -36,7 +36,8 @@ The "cd" keyword changes the current directory to "test2", which is the argument
 user. The "mkdir" keyword creates a new directory named "test3" if the first command succeeds.
 saad@Syeds-MacBook-Air.local:shell-jr $ explain rm -rf example_directory
 The "rm" command is used to remove files or directories. The "-rf" keyword forces deletion (-f) and
-allows recursive removal of directories (-r), while "example_directory" is the name of the directory the user wants to delete.
+allows recursive removal of directories (-r), while "example_directory" is the name of the directory the
+user wants to delete.
 ```
 
 ## Tech Stack
