@@ -30,7 +30,7 @@ Shell Jr is designed to offer a user-friendly and educational command-line exper
   - Uses GPT-4o via GitHub’s AI inference endpoint for on-demand assistance
  
 ## Usage Example
-```bash
+```
 saad@Syeds-MacBook-Air.local:shell-jr $ explain cd test2 && mkdir test3
 The "cd" keyword changes the current directory to "test2", which is the argument provided by the
 user. The "mkdir" keyword creates a new directory named "test3" if the first command succeeds.
