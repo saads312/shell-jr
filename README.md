@@ -9,3 +9,6 @@
   <img src="https://github.com/user-attachments/assets/564dc5a7-0fa8-4f0c-9d16-112480bc2dbe" alt="vegeta vs cell jr" width="500">
 </div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/564dc5a7-0fa8-4f0c-9d16-112480bc2dbe" alt="description">
+</p>
