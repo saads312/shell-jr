@@ -3,7 +3,9 @@
 ### Welcome to Shell Jr!
 A custom bash-style shell written in C++ with the intention of making the Command Line Interface less intimidating for new users.
 
-![3A2C8E44-385B-4668-B524-FC8F0D08E4B1](https://github.com/user-attachments/assets/12369117-4b13-4c5e-a472-e4a766d8f5c9)
+<p align="center">
+  ![bowser-jr-scared](https://github.com/user-attachments/assets/efff0cd3-f5c1-4007-8e29-edd53e51415e)
+</p>
 
 
 ---
