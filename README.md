@@ -4,17 +4,13 @@
 A custom bash-style shell written in C++ with the intention of making the Command Line Interface less intimidating for new users.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/efff0cd3-f5c1-4007-8e29-edd53e51415e" alt="scared bowser jr">
+  <img src="https://github.com/user-attachments/assets/efff0cd3-f5c1-4007-8e29-edd53e51415e" alt="scared bowser jr" style="border-radius: 80%">
 </p>
 
-
----
 
 ## Overview
 
 Shell Jr is designed to offer a user-friendly and educational command-line experience. It comes with a clean, colored prompt, built-in commands, and even an AI-powered `explain` command to help new users understand what each command does. Whether you're a beginner or looking to polish your CLI skills, Shell Jr offers a gentle introduction to the command line.
-
----
 
 ## Features
 
@@ -33,8 +29,6 @@ Shell Jr is designed to offer a user-friendly and educational command-line exper
   - Type a command with `explain "command"` to receive a plain-English explanation  
   - Uses GPT-4o via GitHub’s AI inference endpoint for on-demand assistance
 
----
-
 ## Tech Stack
 - **Language**: C++23
 - **Libraries**:
@@ -44,8 +38,3 @@ Shell Jr is designed to offer a user-friendly and educational command-line exper
 - **AI Integration**:
   - Azure OpenAI Service GPT-4o API
  
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/564dc5a7-0fa8-4f0c-9d16-112480bc2dbe" alt="description" width="500">
-</p>
