@@ -4,7 +4,7 @@
 A custom bash-style shell written in C++ with the intention of making the Command Line Interface less intimidating for new users.
 
 <p align="center">
-  ![bowser-jr-scared](https://github.com/user-attachments/assets/efff0cd3-f5c1-4007-8e29-edd53e51415e)
+  <img src="https://github.com/user-attachments/assets/efff0cd3-f5c1-4007-8e29-edd53e51415e" alt="scared bowser jr">
 </p>
 
 
