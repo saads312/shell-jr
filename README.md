@@ -29,7 +29,7 @@ Shell Jr is designed to offer a user-friendly and educational command-line exper
   - Type a command with `explain "command"` to receive a plain-English explanation  
   - Uses GPT-4o via GitHub’s AI inference endpoint for on-demand assistance
  
-## Usage Example
+## Example Usage
 ```
 saad@Syeds-MacBook-Air.local:shell-jr $ explain cd test2 && mkdir test3
 The "cd" keyword changes the current directory to "test2", which is the argument provided by the
