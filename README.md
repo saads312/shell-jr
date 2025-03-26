@@ -41,6 +41,14 @@ allows recursive removal of directories (-r), while "example_directory" is the n
 user wants to delete.
 ```
 
+## Getting Started
+1. Clone this repository
+2. Create a `.env` file inside the root directory
+3. From github marketplace, create an API key for any AI (Azure OpenAI, DeepSeek, Llama, etc)
+4. In your .env file, enter (without square brackets):
+   - `GITHUB_AI_API_KEY=[MY_SECRET_KEY]`
+5. Use the `make run` command to start the shell
+
 ## Tech Stack
 - **Language**: C++23
 - **Libraries**:
