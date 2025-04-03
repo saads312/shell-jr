@@ -33,13 +33,6 @@ int main() {
         destination = "";
         redirection = false;
 
-        // // std::cout << "$ ";
-        // rl_attempted_completion_function = my_completion;
-        // char* c_input = readline("$ ");
-        // if (!c_input) continue;
-        // std::string input(c_input);
-        // free(c_input);
-
         char hostname[128];
         gethostname(hostname, sizeof(hostname));
         std::string user = getenv("USER") ? getenv("USER") : "user";
